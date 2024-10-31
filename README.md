@@ -7,8 +7,10 @@ This project is a React-based book reservation system that allows users to view 
 To get started with this project, clone the repository to your local machine using the following command: `git clone <repository-url>`. After cloning, navigate into the project directory and run `npm install` to install the required dependencies.
 
 ## Running the Project
+# Book Reservation System
 
-To run the application, execute `npm start` in your terminal. This command starts the development server, and you can view the application by opening your web browser and navigating to `http://localhost:3000`.
+This is a React application for reserving books. To get started, clone the repository and navigate to the project directory. Run `npm install` to install the required dependencies. Once the installation is complete, use `npm start` to run the application locally on your machine. The application will be available at `http://localhost:3000`. You can view all the books, search for a specific title, and make reservations. When you reserve a book, a confirmation modal will pop up with the reservation details. For further customization, feel free to modify the API endpoints in the source code to match your backend service.
+
 
 ## Features
 
