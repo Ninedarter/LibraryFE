@@ -30,7 +30,3 @@ The application integrates with a backend API for managing books and reservation
 - TypeScript
 - Material-UI
 - Axios
-
-## License
-
-This project is licensed under the MIT License.
